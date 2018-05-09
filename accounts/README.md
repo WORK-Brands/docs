@@ -113,6 +113,9 @@ chris@worklabs.com
 ### WORK Brands
 [View Site](https://www.work-brands.com/)
 
+### WORK Beer
+[View Site](https://www.workbeer.com/)
+
 
 ### WORK HQ
 [View Site](https://www.work-hq.org/)
@@ -120,6 +123,6 @@ chris@worklabs.com
 
 ### O'MY Gelato
 [View Site](https://www.omygelato.com/)
-::: tip Transferred ownership to
+::: tip Transferring ownership to
 allison@omydairyfree.com
 :::

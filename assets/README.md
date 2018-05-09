@@ -54,6 +54,22 @@ pageClass: custom-page-class
 <a :href="$withBase('/logos.zip')" download>Download Logos</a>
 
 
+### Quotes
+<blockquote>
+“Lee Norwood is a true professional, and a pleasure to work with. He has great taste and an exceptional mind and eye for design. His understanding
+of the market and the consumer are key factors in his ability to conceptualize new ideas that are relevant for the market. His attention to detail and commitment to great products are qualities that I look for and value.”
+— Spencer Birch</blockquote>
+
+<blockquote>
+“Cabell has one of those minds that combines a military strategist with a sense of humor, A.D.D. child with business acumen, and a mad professor with taste and a sense of composition. He’s a wonderful, bright creative problem solver with more going on in his own head than most of the entire advertising industry today.”
+— Andy Spade, CEO of Kate Spade</blockquote>
+
+<blockquote>
+“Jeffs approach to textile development is about telling stories, its how this mind works, the goal is to insure product development is brand right, the tool chest to accomplish this feat seems to be unlimited.”
+— Robert Comstock</blockquote>
+
+
+
 
 
 

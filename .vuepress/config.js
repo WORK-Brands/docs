@@ -1,6 +1,7 @@
 module.exports = {
   title: 'WORK Docs',
   description: 'Everything you need to know',
+  base: '/docs/',
   configureWebpack: {
    resolve: {
      alias: {
